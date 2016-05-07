@@ -1,0 +1,31 @@
+{
+  "name": "redux-async-example",
+  "version": "0.0.0",
+  "description": "Redux async example",
+  "homepage": "http://redux.js.org",
+  "dependencies": {
+    "babel-polyfill": "*",
+    "isomorphic-fetch": "*",
+    "node-libs-browser": "^1.0.0",
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1",
+    "react-redux": "*",
+    "react-router": "*",
+    "redux": "^3.5.2",
+    "redux-logger": "*",
+    "redux-thunk": "^2.0.1"
+  },
+  "devDependencies": {
+    "babel-core": "*",
+    "babel-loader": "*",
+    "babel-preset-es2015": "*",
+    "babel-preset-react": "*",
+    "babel-preset-react-hmre": "*",
+    "expect": "*",
+    "express": "*",
+    "node-libs-browser": "*",
+    "webpack": "*",
+    "webpack-dev-middleware": "*",
+    "webpack-hot-middleware": "*"
+  }
+}
